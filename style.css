@@ -19,7 +19,9 @@ h1 {
 }
 
 a:hover {
-    color: blue
+    color: #fff;
+    font-size: 102%;
+   
 }
 
 nav ul {
